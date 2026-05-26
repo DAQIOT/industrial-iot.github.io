@@ -68,5 +68,6 @@ If you are working on industrial monitoring or automation projects, feel free to
 
 ---
 
-📧 Contact: (your email here)  
+📧 Contact: (export@daq-iot.com)  
 🌐 Website: https://daqiot.github.io
+Whatsapp:+86 19936624847
